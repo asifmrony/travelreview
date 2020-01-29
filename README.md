@@ -7,4 +7,4 @@ Website is under Construction. This project mainly about tourism, guideline for 
 - travelReview Home page : [Home]( https://asifmrony.github.io/travelreview/)
 
 
-**Feel free to explore, clone and download the projects. Feedback, Suggestions are warmly appreciated. Consider reaching me [iamrony](https://asifmrony.github.io/) here. **
+**Feel free to explore, clone and download the projects. Feedback, Suggestions are warmly appreciated. Consider reaching me [iamrony](https://asifmrony.github.io/) here.**
